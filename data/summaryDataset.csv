@@ -1,0 +1,44 @@
+Poster,Rank,Title,Link
+"<img src= ""images/ShawShankRedemptionCover.jpg""
+width=75px alt=""icon"" />",1,"The Shawshank Redemption","<form method =""POST"" action=""details.php?proid=1"">
+<button type=""submit"" name=""shawShank"" class=""btn btn-dark"">Details</button>
+</form>"
+"<img src= ""images/TheGodFatherCover.jpg""
+width=75px alt=""icon"" />",2,"The GodFather","<form method =""POST"" action=""details.php?proid=2"">
+<button type=""submit"" name=""godFather"" class=""btn btn-dark"">Details</button>
+</form>"
+"<img src= ""images/TheGodFather2Cover.jpg""
+width=75px alt=""icon"" />",3,"The GodFather: Part II","<form method =""POST"" action=""details.php?proid=3"">
+<button type=""submit"" name=""godFather2"" class=""btn btn-dark"">Details</button>
+</form>"
+"<img src= ""images/TheDarkKnightCover.jpg""
+width=75px alt=""icon"" />",4,"The Dark Knight","<form method =""POST"" action=""details.php?proid=4"">
+<button type=""submit"" name=""darkKnight"" class=""btn btn-dark"">Details</button>
+</form>"
+"<img src= ""images/12AngryMenPoster.jpg""
+width=75px alt=""icon"" />",5,"12 Angry Men","<form method =""POST"" action=""details.php?proid=5"">
+<button type=""submit"" name=""12AngryMen"" class=""btn btn-dark"">Details</button>
+</form>"
+"<img src= ""images/SchindlersListCover.jpg""
+width=75px alt=""icon"" />",6,"Schindlers List","<form method =""POST"" action=""details.php?proid=6"">
+<button type=""submit"" name=""schindlersList"" class=""btn btn-dark"">Details</button>
+</form>"
+"<img src= ""images/TheLordOfTheRingsCover.jpg""
+width=75px alt=""icon"" />",7,"The Lord of the 
+Rings: The Return of the King","<form method =""POST"" action=""details.php?proid=7"">
+<button type=""submit"" name=""returnKing"" class=""btn btn-dark"">Details</button>
+</form>"
+"<img src= ""images/PulpFictionCover.jpg"" 
+width=75px alt=""icon"" />",8,"Pulp Fiction","<form method =""POST"" action=""details.php?proid=8"">
+<button type=""submit"" name=""pulpFiction"" class=""btn btn-dark"">Details</button>
+</form>"
+"<img src= ""images/TheGoodTheBadCover.jpg""
+width=75px alt=""icon"" />",9,"The Good, The Bad 
+and The Ugly","<form method =""POST"" action=""details.php?proid=9"">
+<button type=""submit"" name=""theGoodTheBad"" class=""btn btn-dark"">Details</button>
+</form>"
+"<img src= ""images/FellowShipCover.jpg""
+width=75px alt=""icon"" />",10,"The 
+Lord of The Rings: The Fellowship of the Ring","<form method =""POST"" action=""details.php?proid=10"">
+<button type=""submit"" name=""fellowShip"" class=""btn btn-dark"">Details</button>
+</form>"

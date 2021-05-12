@@ -1,0 +1,24 @@
+.dimmensions{
+    max-width: 25%;
+    max-height: 25%;
+
+}
+
+#container{
+    margin: auto;
+    width: 500px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.text-success{
+    font-size: 18px; 
+    color: green;
+}
+
+.text-error{
+    font-size: 18px; 
+    color: red;
+}

@@ -1,0 +1,134 @@
+@media only screen and (min-width:768px){
+    body{
+      margin: 0;
+    }
+    
+    #container{
+        width: 750px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+}
+
+/* #center{
+    text-align: center; 
+} */
+
+.style{
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.table_style2{
+    margin: auto;
+    text-align:center;
+    width: 50%;
+}
+
+#center{
+    text-align: center; 
+}
+
+#style{
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#footer{
+    display: flex;
+    flex-direction: columnn;
+    justify-content: flex-start;
+    height: auto;
+    margin-left: auto;
+}
+
+.table_style{
+    float:right;
+    text-align:left;
+    width: 40%;
+}
+
+.margin_control{
+    margin-top: 100px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: blue;
+}
+
+
+/* .payment a{background: #ff0000 none repeat scroll 0 0;
+border-radius: 3px;
+color: #fff;
+font-size: 25px;
+}  */
+
+/* .back a{
+    width:150px;
+    margin: 5px 
+    auto 0;
+    padding: 7px 0; 
+    text-align: center;
+    display: block;
+    background: #555;
+    border: 1px solid #333;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 25px; 
+} */
+
+.back a{
+    text-align: center;
+    display: block;
+    padding: 7px 0;
+    border-radius: 3px;
+    font-size: 25px; 
+    width:150px;
+    margin: 5px 
+    auto 0;
+    border: 1px solid;
+}
+
+.tblone{
+    /* width: 500px; 
+    margin: 0 auto; 
+    border: 2px solid #ddd;  */
+    margin-top: 20px;
+    /* font-size: 13px; */
+} 
+ .tblone tr td{
+     text-align: justify;
+    } 
+
+    .table_style2{
+        margin: auto;
+        text-align:center;
+        width: 50%;
+    }
+    
+    .content_style{
+        text-align:center;
+        margin:auto;
+    }
+    
+    .style_margin{
+        margin-top: 20px;
+    }
+
+.success{
+    font-size: 18px; 
+    color: green;
+}
+
+.error{
+    font-size: 18px; 
+    color: red;
+}
+
+.dimmensions{
+    max-width: 25%;
+    max-height: 25%;
+
+}
